@@ -1,8 +1,7 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
+  "name": "@mdbootstrap/react-avatar",
+  "version": "1.0.0",
   "description": "template for mdb-react-ui-kit",
-  "private": true,
   "dependencies": {
     "carousel": "^0.0.3",
     "mdb-react-ui-kit": "^4.0.0",
@@ -20,7 +19,15 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "js",
+    "avatar"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
@@ -35,5 +42,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-avatar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-avatar/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/avatar/"
 }
